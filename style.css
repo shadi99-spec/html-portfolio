@@ -1,0 +1,31 @@
+*{
+      background-color: #2C3333;
+}
+li{
+    color:#0E8388;
+    font-size: 14px;
+    font-weight: normal;
+    font-family:cursive;
+}
+ul{
+    color: #ECF2FF;
+    font-family:cursive;
+    font-weight: normal;
+
+}
+h2,h1,h3{
+    color: #CBE4DE;
+    font-family:cursive;
+}
+p{
+    color:#0E8388;
+    font-family:cursive;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+a{
+    color: antiquewhite;
+}
